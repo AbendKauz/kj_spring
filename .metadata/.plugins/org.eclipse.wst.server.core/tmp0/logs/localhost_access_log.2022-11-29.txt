@@ -1,0 +1,12 @@
+127.0.0.1 - - [29/Nov/2022:17:12:37 +0900] "GET / HTTP/1.1" 200 283
+127.0.0.1 - - [29/Nov/2022:17:14:24 +0900] "GET / HTTP/1.1" 200 283
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:25 +0900] "GET /project-rural/WEB-INF/jsp/ft/ftMain/main.jsp HTTP/1.1" 404 2567
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:25 +0900] "GET /publish/ft/js/common.js HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:25 +0900] "GET /publish/ft/js/jquery-1.11.3.min.js HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:25 +0900] "GET /publish/ft/css/style.css HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:25 +0900] "GET /publish/ft/images/sub/error_500.png HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:25 +0900] "GET /publish/ft/images/common/logo.png HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:25 +0900] "GET /favicon.ico HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:35 +0900] "GET /project-rural/index.jsp HTTP/1.1" 200 660
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:35 +0900] "GET /publish/ma/js/jquery-1.11.3.min.js HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [29/Nov/2022:17:14:35 +0900] "GET /favicon.ico HTTP/1.1" 404 721
